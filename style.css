@@ -1,12 +1,13 @@
-.my_col {
-    background-color: #0b2f33;
-    color: #ffffff;
-    font-size: larger;
-    text-align: center;
-    border-radius: 40px;
-    margin: 12px;
-    padding: 12px;
+body {
+    margin: 20px;
+    height: 100vh;
 }
+
+.my_col {
+
+}
+
 .my_row {
 
 }
+
