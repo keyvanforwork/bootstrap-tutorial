@@ -1,13 +1,17 @@
 body {
-    margin: 20px;
-    height: 100vh;
+  margin: 20px;
+  height: 100vh;
 }
-
-.my_col {
-
+@font-face {
+  font-family: "PlayfairDisplay-Mid";
+  src: url("static_fonts/PlayfairDisplay-Medium.ttf");
 }
-
-.my_row {
-
+* {
+  font-family: PlayfairDisplay-Mid, serif;
+  font-size: large;
 }
-
+#d1 {
+  font-family: PlayfairDisplay-Mid, serif;
+  font-size: large;
+  color: #d7d8da;
+}
